@@ -1,0 +1,45 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-left: 100px;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.grid-item {
+    height: 450px;
+    width: 302px;
+    background: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 00px;
+    font-size: 30px;
+    background: #adacac;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+footer{
+    background-color: lightblue;
+    display: block;
+    text-align: center;
+    height: 200px;
+    font-size: 20px;
+}
+
+.class1{
+    text-align: center;
+    font-size: 15px;
+    font-family: Calibri;
+}
+
+.carousel slide{
+    align-content: center;margin-left: auto;margin-right: auto;
+}
+
+.class2 {
+    color: black;
+}
